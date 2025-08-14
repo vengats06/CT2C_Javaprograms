@@ -1,6 +1,6 @@
-package programs1;
+package javaprogram1;
 
-public class testing {
+public class Testing {
 
 	public static void main(String[] args) 
 	{

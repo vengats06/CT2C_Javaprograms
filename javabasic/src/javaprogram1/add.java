@@ -1,4 +1,4 @@
-package programs1;
+package javaprogram1;
 import java.io.*;
 import java.util.*;
 
