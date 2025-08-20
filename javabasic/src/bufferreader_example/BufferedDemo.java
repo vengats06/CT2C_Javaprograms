@@ -1,4 +1,4 @@
-package bufferreader_example;e
+package bufferreader_example;
 import java.io.*;
 
 public class BufferedDemo {
