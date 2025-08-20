@@ -1,4 +1,4 @@
-package singleinheritence_example;
+package day5.singleinheritence_example;
 
 public class Trainer extends Person { 
 	private int eid;
