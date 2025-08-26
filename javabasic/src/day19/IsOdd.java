@@ -1,5 +1,6 @@
 package day19;
 
-public class IsOdd {
-
+@FunctionalInterface
+interface IsOdd{
+	public boolean checkOdd(int a);
 }
